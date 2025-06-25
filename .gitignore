@@ -1,0 +1,16 @@
+# Archivos de configuración sensibles
+config.php
+LocalSettings.php
+.env
+
+# Directorios de caché y temporales
+cache/*
+tmp/*
+
+# Archivos de base de datos
+*.sql
+*.sql.gz
+
+# Directorios de subidas
+uploads/*
+images/*
